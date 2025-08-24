@@ -1,0 +1,7 @@
+
+footer {
+  color: white;
+  text-align: center;
+  padding: 2rem;
+  margin-top: auto; /* This should push the footer to the bottom */
+}

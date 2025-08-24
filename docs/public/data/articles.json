@@ -1,0 +1,24 @@
+
+[
+  {
+    "id": "1",
+    "title": "Empowering Through Education",
+    "content": "Our latest initiative focuses on providing quality education to underprivileged children. We believe that education is the key to unlocking a brighter future, and through our dedicated volunteers and generous donors, we have been able to support over 500 children this year.",
+    "author": "Dr. A.P.J. Abdul Kalam",
+    "createdAt": "2025-08-15T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Healthcare for All",
+    "content": "Access to basic healthcare is a fundamental right. Our mobile medical camps have reached remote villages, providing free check-ups, essential medicines, and health awareness programs to communities in need. We are committed to ensuring a healthier tomorrow for everyone.",
+    "author": "Mother Teresa",
+    "createdAt": "2025-07-22T14:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Clean Water Project Success",
+    "content": "We are thrilled to announce the successful completion of our Clean Water Project in several rural communities. By installing water purification systems, we have provided access to safe and clean drinking water for thousands of families, significantly reducing waterborne diseases.",
+    "author": "Nelson Mandela",
+    "createdAt": "2025-06-01T09:00:00Z"
+  }
+]

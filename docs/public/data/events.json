@@ -1,0 +1,29 @@
+
+[
+  {
+    "id": "1",
+    "title": "Rakshabandhan 2025",
+    "description": "A heartwarming celebration of Rakshabandhan with the children. Our volunteers and the children came together to tie rakhis, share sweets, and celebrate the special bond of love and protection.",
+    "images": [
+      "/events/rakshabandhan-2025/IMG_3130.JPG",
+      "/events/rakshabandhan-2025/IMG_3134.JPG",
+      "/events/rakshabandhan-2025/IMG-20250817-WA0094.jpg",
+      "/events/rakshabandhan-2025/IMG-20250817-WA0117.jpg",
+      "/events/rakshabandhan-2025/IMG-20250817-WA0127.jpg",
+      "/events/rakshabandhan-2025/IMG-20250817-WA0147.jpg",
+      "/events/rakshabandhan-2025/IMG-20250817-WA0160.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Independence Day Celebrations",
+    "description": "Celebrating the spirit of freedom and patriotism with cultural performances, a flag hoisting ceremony, and activities that instill a sense of national pride among the children.",
+    "images": []
+  },
+  {
+    "id": "3",
+    "title": "Annual Sports Day",
+    "description": "A day filled with energy, enthusiasm, and sportsmanship. The children participated in various athletic events, showcasing their talents and learning the importance of teamwork and fair play.",
+    "images": []
+  }
+]
